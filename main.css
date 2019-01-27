@@ -1,0 +1,119 @@
+body {
+  background: url(img/griffith-observatory-2.png);
+  /* background: url(img/Observing-the-night.jpg); */
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  margin: 0;
+  padding: 0;
+}
+
+.top-box {
+  padding: 0;
+  margin: 0 0 0 100px;
+  width: 200px;
+  height: 75px;
+}
+
+.red-box {
+  padding: 0;
+  margin: 0;
+  background-color: #d02618;
+  width: 50px;
+  height: 75px;
+}
+
+.section-heading-container {
+  float: right;
+  margin: 0;
+  padding: 0;
+}
+
+.section-heading {
+  font-weight: 600;
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #c3c0ad;
+  margin: -23px 0 0 0;
+  padding: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.main-text {
+  width: 800px;
+  float: right;
+  padding: 0;
+  margin: 41px 0 0 0;
+}
+
+.article-header {
+  color: #fdfbf8;
+  font-size: 105px;
+  font-family: 'Sarabun', sans-serif;
+  font-weight: 200;
+  line-height: 95px;
+  padding: 0;
+  margin: 25px 0 0 0;
+}
+
+.header-right {
+  padding-right: 240px;
+}
+
+.header-left {
+  padding-left: 230px;
+}
+
+.intro-container {
+  position: absolute;
+  top: 265px;
+  padding: 0;
+  margin: 0 0 0 -85px;
+}
+
+.intro-text {
+  color: #e9e2dc;
+  text-align: right;
+  width: 300px;
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 24px;
+  padding: 0;
+  margin: 0;
+  line-height: 1.4em;
+}
+
+.byline {
+  color: #e9e2dc;
+  text-align: right;
+  font-weight: 600;
+  font-family: 'Open Sans', sans-serif;
+  width: 300px;
+  margin: 8px 0 0 0;
+  padding: 0;
+}
+
+.caption-container {
+  position: absolute;
+  bottom: 25px;
+  right: 200px;
+  width: 525px;
+}
+
+.caption-text {
+  color: #ccc;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+  font-size: 13px;
+  margin: 0;
+  padding: 0;
+}
+
+.narrow-text {
+  text-transform: uppercase;
+  font-weight: 600;
+}
