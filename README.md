@@ -4,4 +4,4 @@ Layout recreated from Astronomy magazine.
 
 Page from Astronomy:
 
-![Page from Astronomy][https://github.com/bobmatyas/html-css-extra-mag-layout/blob/master/spec/layout.jpg]
+https://github.com/bobmatyas/html-css-extra-mag-layout/blob/master/spec/layout.jpg
