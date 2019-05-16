@@ -2,7 +2,7 @@
 
 An HTML/CSS layout exercise for Grand Circus.
 
-View online at: 
+View online at: https://bobmatyas.github.io/html-css-extra-mag-layout/
 
 # Specs
 
